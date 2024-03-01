@@ -12,7 +12,7 @@ for num in two_input:
     print(num)
 
 # using rage with 3 argument
-three_input = range(1, 10, 2)
+three_input = range(5, 1, -1)
 print("using rage with 3 argument")
 for num in three_input:
     print(num)
