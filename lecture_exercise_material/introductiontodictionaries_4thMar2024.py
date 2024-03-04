@@ -1,0 +1,1 @@
+console = {"nintendo": "wii","microsoft": "xbox", "sony": "playstation"}
